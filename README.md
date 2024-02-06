@@ -1,8 +1,8 @@
 # reading-notes
 This repo contains all notes for Code Fellows Software Development courses.
 
-
-##Code 102
+# Table of Contents
+## Code 102
 
 - [Class 01 - Growth Mindest](./code-102/class-01)
 - [Class 02 - Using the Terminal](./code-102/class-02.md)
@@ -13,7 +13,7 @@ This repo contains all notes for Code Fellows Software Development courses.
 - [Class 07](./code-102/class-07)
 - [Class 08](./code-102/class-08)
 
-##Code 201
+## Code 201
 
 - [Class 01](./code-201/class-01)
 - [Class 02](./code-201/class-02)

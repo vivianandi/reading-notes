@@ -89,3 +89,7 @@ To stage all changes:
 
 **6. What is the command to send your changed files to Github?**
 `git push origin main`
+
+---
+**Reminder**
+After every meaningful change, A-C-P --> write commit messages that explain WHY you made your changes, not what the changes were
