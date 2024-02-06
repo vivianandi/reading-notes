@@ -88,4 +88,4 @@ To stage all changes:
 `git commit -m "commit message"`
 
 6. What is the command to send your changed files to Github?
-`git push origin master`
+`git push origin main`
