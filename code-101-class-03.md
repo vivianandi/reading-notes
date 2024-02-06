@@ -1,4 +1,4 @@
-#Git Tutorial: A Comprehensive Guide
+# Git Tutorial: A Comprehensive Guide
 
 ## Version Control
 - **Local Version Control:** Single database on your hard disk
@@ -32,25 +32,25 @@ Create a copy of an existing Git repository using `git clone` and the repository
 - Example with a name change - `git clone https://github.com/test mydirectory`
 
 ## Workflow
-###Local Repository Structure
+### Local Repository Structure
 The local Git repository has three components:
 1. Working Directory: The actual files reside here
 2. Index: The area used for staging
 3. Head: Points to the most recent commit
 
-###Saving Changes
+### Saving Changes
 **Tracked files** can be modified, unmodified, or staged; they were part of the most recent file snapshot
 **Untracked files** were not in the last snapshot and do not currently reside in the staging area
 
-###Life Cycle of File Status
+### Life Cycle of File Status
 1. After you edit a file, Git flags it as modified because of changes made after the previous commit
 2. You stage the modified file
 3. Then, you commit staged changes
 
-###Check File Status
+### Check File Status
 `git status`
 
-###Tracking and Staging a New File
+### Tracking and Staging a New File
 Single File
 Track one file only by using the following format:
 `git add filename`
@@ -59,19 +59,19 @@ All Files
 Track all files in a repository by using the following command:
 `git add *`
 
-###Committing a file
+### Committing a file
 After staging one or multiple files
 `git commit -m “made change x,y,z”`
 
-###Committing all changes
+### Committing all changes
 `git commit -a`
 
-###Pushing Changes
+### Pushing Changes
 Push changes to a remote repository
 `git push origin master`
 - This command pushes changes from the local “master” branch to the remote repository named “origin”
 
-#Q&A
+# Q&A
 1. What is Version Control?
 Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes. Through version control, one can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes.
 
