@@ -1,6 +1,6 @@
-#The Coder’s Computer
+# The Coder’s Computer
 
-##Choosing A Text Editor – The Older Coder 
+## Choosing A Text Editor – The Older Coder 
 
 1. Introduction to Text Editors:
 - Text editor is essential for web development
@@ -29,11 +29,11 @@
 - Text Editor: edits and manages text and files
 - IDE (Integrated Development Environment): comprehensive suite with a text editor, file manager, compiler, and debugger
 
-##The Command Line
+## The Command Line
 - The command line is the terminal - a text based interface to the system --> enter commands by typing them on the keyboard and feedback will be given to you similarly as text
 - **Shell** - within the command line,  part of the operating system that defines how the terminal will behave and looks after running (or executing) commands for you
 
-##Navigation
+## Navigation
 - This section provides an overview of fundamental commands for navigating and understanding the file system
 
 ### Print Working Directory (`pwd`)
@@ -42,7 +42,7 @@
 ### List Contents (`ls`)
 - `ls`: lists the contents of the current directory
 
-###Paths
+### Paths
 - Absolute paths start from the root directory (`/`), while relative paths are in relation to the current location
 
 ### Path Building Blocks
