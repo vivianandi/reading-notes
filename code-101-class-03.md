@@ -68,7 +68,7 @@ After staging one or multiple files
 
 ### Pushing Changes
 Push changes to a remote repository
-`git push origin master`
+`git push origin main`
 - This command pushes changes from the local “master” branch to the remote repository named “origin”
 
 # Q&A
