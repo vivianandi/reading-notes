@@ -31,7 +31,7 @@ To import an existing project or directory into Git
 Create a copy of an existing Git repository using `git clone` and the repository's URL
 - Example with a name change - `git clone https://github.com/test mydirectory`
 
-## Workflow
+# Workflow
 ### Local Repository Structure
 The local Git repository has three components:
 1. Working Directory: The actual files reside here

@@ -26,6 +26,6 @@ Q and A
 6. When making text bold or italicized for emphasis, it is best practice to use which symbol?
    - Two * for bold, one * to italicize
 7. How do you create a link with Markdown?
-   - [title](https://www.example.com)
+   - `[words](https://www.example.com)`
 8. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
    - Dashes ( - ), asterisks ( * ), or plus signs ( + )
