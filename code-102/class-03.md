@@ -29,14 +29,14 @@ To import an existing project or directory into Git
 
 ### Cloning
 Create a copy of an existing Git repository using `git clone` and the repository's URL
-- Example with a name change - `git clone https://github.com/test mydirectory`
+- **Example** *with* a name change - `git clone https://github.com/test mydirectory`
 
 # Workflow
 ### Local Repository Structure
 The local Git repository has three components:
-1. Working Directory: The actual files reside here
-2. Index: The area used for staging
-3. Head: Points to the most recent commit
+- **Working Directory:** The actual files reside here
+- **Index:** The area used for staging
+- **Head:** Points to the most recent commit
 
 ### Saving Changes
 **Tracked files** can be modified, unmodified, or staged; they were part of the most recent file snapshot
@@ -51,11 +51,11 @@ The local Git repository has three components:
 `git status`
 
 ### Tracking and Staging a New File
-Single File
+**Single File**
 Track one file only by using the following format:
 `git add filename`
 
-All Files
+**All Files**
 Track all files in a repository by using the following command:
 `git add *`
 
@@ -72,20 +72,20 @@ Push changes to a remote repository
 - This command pushes changes from the local “master” branch to the remote repository named “origin”
 
 # Q&A
-1. What is Version Control?
+**1. What is Version Control?**
 Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes. Through version control, one can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes.
 
-2. What is cloning in Git?
+**2. What is cloning in Git?**
 To copy all versions of all files for a project.
 
-3. What is the command to track and stage files?
+**3. What is the command to track and stage files?**
 To track and stage files in Git:
 `git add <filename>`
 To stage all changes:
 `git add .`
 
-5. What is the command to take a snapshot of your changed files?
+**5. What is the command to take a snapshot of your changed files?**
 `git commit -m "commit message"`
 
-6. What is the command to send your changed files to Github?
+**6. What is the command to send your changed files to Github?**
 `git push origin main`
