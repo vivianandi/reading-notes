@@ -53,7 +53,7 @@ JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programm
 Variables are containers for storing data
 
 **2. What does it mean to declare a variable?**
-It means to assign value to a varibale
+It means to assign value to a variable
 
 **3. What is an “assignment” operator, and what does it do?**
 It is the `=` and it assigns a value to a variable
