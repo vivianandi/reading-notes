@@ -32,3 +32,4 @@ This repo contains all notes for Code Fellows Software Development courses.
 - [Class 15](./code-201/class-15)
 
 ## References
+[CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
