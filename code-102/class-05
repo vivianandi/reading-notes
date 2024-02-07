@@ -17,6 +17,14 @@ Used if one single HTML page has a unique style
 Used to apply a unique style for a single element
 `<h1 style="color:blue;text-align:center;">This is a heading</h1>`
 
+**Selector**
+Elements to Style
+- The "what" to style
+
+**Code block**
+What is inside the brackets
+- The "where"
+
 ## Q&A
 **1. What is the purpose of CSS?**
 The purpose of CSS is to separate the structure of a web page (HTML) from its presentation, allowing developers to control the layout, colors, fonts, and other visual aspects of a website
