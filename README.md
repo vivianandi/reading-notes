@@ -8,7 +8,7 @@ This repo contains all notes for Code Fellows Software Development courses.
 - [Class 02 - Using the Terminal](./code-102/class-02.md)
 - [Class 03 - Practice with Git](./code-102/class-03.md)
 - [Class 04 - Structure web pages with HTML](./code-102/class-04)
-- [Class 05](./code-102/class-05)
+- [Class 05 - Design web pages with CSS](./code-102/class-05)
 - [Class 06](./code-102/class-06)
 - [Class 07](./code-102/class-07)
 - [Class 08](./code-102/class-08)
@@ -30,3 +30,5 @@ This repo contains all notes for Code Fellows Software Development courses.
 - [Class 13](./code-201/class-13)
 - [Class 14](./code-201/class-14)
 - [Class 15](./code-201/class-15)
+
+## References
