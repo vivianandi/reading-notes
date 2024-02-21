@@ -2,7 +2,7 @@
 
 ## Learn HTML Q & A
 **1. When should you use an `unordered list` in your HTML document?**
-Use an unordered list (<ul>) when you want to represent a list of items that doesn't have a specific order or sequence
+Use an unordered list `(<ul>)` when you want to represent a list of items that doesn't have a specific order or sequence
 
 **2. How do you change the `bullet style` of unordered list items?**
 Using `list-style-type` property in CSS
