@@ -17,7 +17,7 @@ This repo contains all notes for Code Fellows Software Development courses.
 
 - [Class 01](./code-201/class-01.md)
 - [Class 02 - Basics of HTML, CSS & JS](./code-201/class-02.md)
-- [Class 03](./code-201/class-03.md)
+- [Class 03 - HTML Lists, Control Flow with JS, and the CSS Box Model](./code-201/class-03.md)
 - [Class 04](./code-201/class-04.md)
 - [Class 05](./code-201/class-05.md)
 - [Class 06](./code-201/class-06.md)
