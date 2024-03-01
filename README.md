@@ -23,7 +23,7 @@ This repo contains all notes for Code Fellows Software Development courses.
 - [Class 06 - Problem Domain, Objects, and the DOM](./code-201/class-06.md)
 - [Class 07 - Object-Oriented Programming, HTML Tables](./code-201/class-07.md)
 - [Class 08 - CSS Layout](./code-201/class-08.md)
-- [Class 09](./code-201/class-09.md)
+- [Class 09 - Forms and JS Events](./code-201/class-09.md)
 - [Class 10](./code-201/class-10.md)
 - [Class 11](./code-201/class-11.md)
 - [Class 12](./code-201/class-12.md)
