@@ -4,7 +4,7 @@
 
 **Explain how the ability to use video and audio on the web has evolved since the early 2000s.**
 - Early 2000s: Limited browser support, reliance on Flash.
-- Mid to Late 2000s: Introduction of HTML5, native <video> and <audio> elements.
+- Mid to Late 2000s: Introduction of HTML5, native `<video>` and `<audio>` elements.
 - 2010s: Standardization, improved cross-browser compatibility.
 - Present: Advanced features like WebRTC, modern codecs.
 
