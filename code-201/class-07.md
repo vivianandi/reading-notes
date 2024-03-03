@@ -1,10 +1,10 @@
 # Object-Oriented Programming, HTML Tables
 
-## Domain Modeling
+## [Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
 **1. Explain why we need domain modeling.**
 A domain model describes the various entities, their attributes and behaviors, as well as the constraints that govern the problem and it can verify and validate the understanding of a specific problem among various stakeholders.
 
-## HTML Table Basics
+## [HTML Table Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
 **1. Why should tables not be used for page layouts?**
 - Layout tables reduce accessibility for visually impaired users
 - Tables produce tag soup
@@ -13,7 +13,7 @@ A domain model describes the various entities, their attributes and behaviors, a
 **2. List and describe 3 different semantic HTML elements used in an HTML `<table>`.**
 `<th>` table header, `<tr>` table row, `<td>` table data
 
-## Introducing Constructors
+## [Introducing Constructors](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics#introducing_constructors)
 **1. What is a constructor and what are some advantages to using it?**
 - A constructor is a special method or function that is called automatically when an object is created from a class
 - A constructor is just a function called using the new keyword. 
@@ -26,7 +26,7 @@ A domain model describes the various entities, their attributes and behaviors, a
 **2. How does the term `this` differ when used in an object literal versus when used in a constructor?**
 In an object literal, this refers to the object itself, while in a constructor, it points to the instance being created, enabling the initialization of instance-specific properties and methods.
 
-## Object Prototypes Using A Constructor
+## [Object Prototypes Using A Constructor](https://ui.dev/beginners-guide-to-javascript-prototype)
 **1. Explain prototypes and inheritance via an analogy from your previous work experience.**
 **NOTE: This is a very common front end developer interview question**
 A firm's standardized methodologies and best practices can be thought of as a prototype. When a new project team is formed, it inherits the foundational knowledge and best practices from the firm's centralized expertise, akin to an object inheriting characteristics from its prototype. This inheritance fosters consistency across projects while allowing each team to adapt and specialize its approach based on the unique requirements of the client's problem, ensuring a balance between standardized practices and tailored solutions.

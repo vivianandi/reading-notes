@@ -1,6 +1,6 @@
 # HTML Lists, Control Flow with JS, and the CSS Box Model
 
-## Learn HTML Q & A
+## [Learn HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 **1. When should you use an `unordered list` in your HTML document?**
 Use an unordered list `(<ul>)` when you want to represent a list of items that doesn't have a specific order or sequence
 
@@ -13,7 +13,7 @@ Use an ordered list `(<ol>)` when the items in your list have a specific order o
 **4. Describe two ways you can change the numbers on `list items` provided by an `ordered list`?**
 CSS and HTML attributes
 
-## The Box Model Q & A
+## [Learn CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 **1. Describe the CSS properties of `margin` and `padding` as characters in a story. What is their role in a story titled: “The Box Model”?**
 Margie Margin and Paddy Padding, characters in "The Box Model" story, played crucial roles in maintaining order and comfort. Margie, the reserved boundary, defined space around elements, while Paddy, the warm cushion, added a cozy touch. Together, they created a harmonious balance in the village of HTML Hollow.
 
@@ -23,7 +23,7 @@ Margie Margin and Paddy Padding, characters in "The Box Model" story, played cru
 **Border:** Forms the outer boundary of the box, encapsulating both the content and padding. It defines the visible edges of the element, separating it from other elements in the layout.
 **Margin:** Positioned outside the border, the margin creates space between the element and its surrounding elements. It acts as a buffer, controlling the spacing between elements in the overall layout.
 
-## Arrays. Operators and Expressions. Conditionals. Loops. Q & A
+## [Learn Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 **1. What data types can you store inside of an Array?**
 Various data types which includes numbers, strings, booleans, objects, arrays, functions, undefined, null
 
@@ -53,3 +53,12 @@ An example is making an age restricted app for example an alcohol company - you 
 
 **6. Give an example of when a Loop is useful in JavaScript.**
 A loop is useful when you need to iterate over a collection of items or perform a repetitive task.
+
+## Resources
+[<ol>: The Ordered List Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
+[<ul>: The Unordered List Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+[The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
+[Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
+[Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+[Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+[Looping](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)

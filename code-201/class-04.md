@@ -1,6 +1,6 @@
 # HTML Links, JS Functions, and Intro to CSS Layout
 
-## Learn HTML Q & A
+## [Learn HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 **1. To create a basic link, we wrap text or other content inside what element?**
 Wrap text or other content inside the `<a>` (anchor) element
 
@@ -11,7 +11,7 @@ The href attribute in the `<a>` element contains the URL or destination informat
 - Use descriptive texts
 - Use  Semantic HTML
 
-## CSS Layout Q & A
+## [CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
 **1. What is meant by “normal flow”?**
 "Normal flow" refers to the default layout behavior of HTML elements, where elements are displayed one after another in the order they appear in the HTML document.
 
@@ -29,7 +29,7 @@ Precise placement, layering
 **Absolute Positioning:** Positions an element relative to its nearest positioned (not static) ancestor or to the initial containing block if no positioned ancestor is found.
 **Fixed Positioning:** Positions an element relative to the browser window. It remains fixed even when the page is scrolled.
 
-## Learn JS Q & A
+## [Learn JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 **1. Describe the difference between a function declaration and a function invocation.**
 **Function Declaration:** A function declaration is a way to define a function in JavaScript. It consists of the function keyword, followed by the function name, a list of parameters enclosed in parentheses, and the function body enclosed in curly braces. It defines the function but does not execute it immediately.
 **Function Invocation (or Call):** Function invocation, also known as calling or executing a function, is the act of actually using the defined function by its name followed by parentheses. It triggers the execution of the function code.
@@ -42,3 +42,9 @@ javascript
 ## MISC Q & A
 **1. Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.**
 Engaged collaboration and job interview readiness - pair programming will allow me to learn the correct terminology when coding. It will help with interview preparation, as well as show that I can work well and efficiently with others.
+
+## Resources
+[Creating Hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
+[CSS Layout: Normal Flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
+[CSS Layout: Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
+[Functions – Reusable Blocks of Code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)

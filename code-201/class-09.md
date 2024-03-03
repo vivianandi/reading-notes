@@ -1,6 +1,6 @@
 # Forms and JS Events
 
-## HTML Forms
+## [HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 **Why are forms so important in web development?**
 They facilitate user interaction, data collection, and communication between users and websites. 
 
@@ -14,7 +14,7 @@ Clarity, simplicity, error
 - `<textarea>` - essential for capturing multi-line text input, such as comments, messages, or detailed information
 - `<button>` - serves as a trigger for form submission or other interactive actions
 
-## Learn JS
+## [Learn JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 **How would you describe events to a non-technical friend?**
 Actions or occurrences that happen on a webpage, such as a button being clicked, a key on the keyboard being pressed, or the page finishing loading.
 
@@ -33,3 +33,6 @@ The event object is a JavaScript object that contains information about the even
 ## Resources
 [HTML5 Input Types](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types)
 [Event Reference and listings](https://developer.mozilla.org/en-US/docs/Web/Events)
+[Your First Web Form](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
+[How to Structure a Web Form](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form)
+[Introduction to Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)

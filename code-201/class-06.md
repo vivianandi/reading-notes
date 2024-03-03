@@ -1,6 +1,6 @@
 # Problem Domain, Objects, and the DOM
 
-## JavaScript Object Basics
+## [JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 **1. How would you describe an object to a non-technical friend you grew up with?**
 An object is like a container that can hold various things, and each thing inside it has a special name or job. Imagine you have a backpack (the object), and inside it, you have different pockets (properties) for your snacks, toys, and homework. Each pocket has a specific purpose, and you can organize and access everything easily.
 
@@ -16,7 +16,7 @@ You need bracket notation if the property name contains special characters, star
 **5. Evaluate the code below. What does the term `this` refer to and what is the advantage to using this?**
 To the current instance of the Car object being created. When the Car function is used as a constructor with the new keyword, this refers to the specific instance of the object being created. The advantage of using this is that it allows you to set properties on the individual instance of the object, customizing it with specific values.
 
-## Introduction To The DOM
+## [Introduction To The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 **1. What is the DOM?**
 The DOM, or Document Object Model, is a programming interface for web documents. The DOM provides a way for programs (like JavaScript) to manipulate the structure, style, and content of web documents dynamically.
 

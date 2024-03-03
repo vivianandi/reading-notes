@@ -1,6 +1,6 @@
 # Debugging
 
-## What Went Wrong? Troubleshooting JavaScript.
+## [What Went Wrong? Troubleshooting JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong)
 **1. Name some key differences between a Syntax Error and a Logic Error.**
 - Syntax errors: These are spelling errors in your code that actually cause the program not to run at all, or stop working part way through
 - Logic errors: These are errors where the syntax is actually correct but the code is not what you intended it to be, meaning that program runs successfully but gives incorrect results
@@ -11,7 +11,7 @@ Not defining a variable - fixed when the code has nothing to run through, syntax
 **3. How will this topic continue to influence your long term goals?**
 Knowing different error types will allow for better problem solving and troubleshooting, it will allow me to work with others and help them spot errors/helping with testing
 
-## The JavaScript Debugger.
+## [The JavaScript Debugger](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools#the_javascript_debugger)
 **1.How would you describe the JavaScript Debugger tool and how it works to someone just starting out in software development?**
 - The devtools live inside your browser in a subwindow 
 - How do you pull it up? 
