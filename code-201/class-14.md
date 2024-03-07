@@ -78,15 +78,14 @@ Learning and utilizing CSS transitions align with long-term goals by enhancing m
 - Shared Belief in Psychological Safety: Teams actively cultivate a shared belief that the team is a safe space for interpersonal risk-taking, creating an environment where members feel confident in expressing themselves without fear of judgment or reprisal.
 
 **Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety.**
-1. During my initial months at a law firm in Washington, D.C., I encountered a team within the finance department that grappled with poor psychological safety. The finance manager's distant and non-collaborative approach, coupled with a supervisor who employed intimidation tactics, resulted in an environment where team members were reluctant to express concerns or share ideas openly. This stifling atmosphere hindered creativity and innovation, fostering a culture of conformity.
-
-The impact on productivity was palpable, with work processes slowing down considerably. Compounding the issue, team members began holding secret meetings to discuss their feelings and share their experiences, ultimately leading to a collective decision to bring these concerns to HR. This clandestine communication underscored the lack of trust and openness within the team, further impeding our ability to address challenges collaboratively and contribute to a more inclusive and engaging workplace culture.
+1. During my early months at a Washington, D.C. law firm, the finance team grappled with poor psychological safety. The finance manager's distant approach and an intimidating supervisor stifled open communication and idea-sharing, leading to reduced creativity and productivity. Team members, feeling the need for clandestine meetings, eventually brought their concerns to HR, emphasizing the prevalent mistrust within the team. This environment hindered collaborative problem-solving and prevented the establishment of an inclusive and vibrant workplace culture.
 
 2. In a recent role, I joined a team responsible for migrating financial systems at the Department of Justice. Unlike a previous experience at a law firm where communication barriers stifled productivity, this team thrived on open dialogue and psychological safety.
 
 Under the guidance of our supportive manager, we embraced a collaborative approach. Our manager encouraged open communication, making it clear that every team member's input was valued. This environment fostered seamless teamwork, with a focus on collective success rather than individual efforts.
 
 Our proactive issue tracking and follow-up processes, supported by a culture of mutual support, ensured efficient problem resolution. The shared sense of purpose and trust within the team significantly boosted overall productivity and job satisfaction. This experience underscored the transformative power of psychological safety in fostering a cohesive and successful work environment.
+
 **What impact do teams that operate with a high degree of psychological safety have on their company and the team members?**
 Teams operating with a high degree of psychological safety can have several positive impacts:
 - Increased Innovation and Creativity: A safe environment encourages team members to share diverse perspectives and ideas, fostering innovation and creative problem-solving.
