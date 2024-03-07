@@ -28,7 +28,7 @@ This repo contains all notes for Code Fellows Software Development courses.
 - [Class 11 - Audio, Video, Images](./code-201/class-11.md)
 - [Class 12 - Chart.js, Canvas](./code-201/class-12.md)
 - [Class 13 - Local Storage](./code-201/class-13.md)
-- [Class 14 - CSS  Animations](./code-201/class-14.md)
+- [Class 14 - CSS  Animations & Psychological Safety](./code-201/class-14.md)
 - [Class 15 - README TEMPLATE](./code-201/class-15.md)
 
 ## References
