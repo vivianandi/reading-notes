@@ -31,5 +31,7 @@ This repo contains all notes for Code Fellows Software Development courses.
 - [Class 14 - CSS  Animations & Psychological Safety](./code-201/class-14.md)
 - [Class 15 - README TEMPLATE](./code-201/class-15.md)
 
+## Code 301
+
 ## References
 [CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
