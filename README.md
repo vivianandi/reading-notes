@@ -32,6 +32,21 @@ This repo contains all notes for Code Fellows Software Development courses.
 - [Class 15 - README TEMPLATE](./code-201/class-15.md)
 
 ## Code 301
+- [Class 01 - Introduction to React and Components](./code-301/class-01.md)
+- [Class 02 - State and Props](./code-301/class-02.md)
+- [Class 03 - Passing Functions as Props](./code-301/class-03.md)
+- [Class 04 - React and Forms](./code-301/class-04.md)
+- [Class 05 - Putting it all together](./code-301/class-05.md)
+- [Class 06 - ](./code-301/class-06.md)
+- [Class 07 - ](./code-301/class-07.md)
+- [Class 08 - ](./code-301/class-08.md)
+- [Class 09 - ](./code-301/class-09.md)
+- [Class 10 - ](./code-301/class-10.md)
+- [Class 11 - ](./code-301/class-11.md)
+- [Class 12 - ](./code-301/class-12.md)
+- [Class 13 - ](./code-301/class-13.md)
+- [Class 14 - ](./code-301/class-14.md)
+
 
 ## References
 [CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
