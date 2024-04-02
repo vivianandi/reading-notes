@@ -42,10 +42,11 @@ This repo contains all notes for Code Fellows Software Development courses.
 - [Class 08 - APIs](./code-301/class-08.md)
 - [Class 09 - Functional Programming](./code-301/class-09.md)
 - [Class 10 - In memory storage](./code-301/class-10.md)
-- [Class 11 - ](./code-301/class-11.md)
-- [Class 12 - ](./code-301/class-12.md)
-- [Class 13 - ](./code-301/class-13.md)
-- [Class 14 - ](./code-301/class-14.md)
+- [Class 11 - MongoDB and Mongoose](./code-301/class-11.md)
+- [Class 12 - CRUD](./code-301/class-12.md)
+- [Class 13 - More CRUD](./code-301/class-13.md)
+- [Class 14 - Diversity, Equity, Inclusion, and Belonging](./code-301/class-14.md)
+- [Class 15 - Authentication](./code-301/class-15.md)
 
 
 ## References
